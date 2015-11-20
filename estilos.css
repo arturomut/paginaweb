@@ -1,0 +1,41 @@
+html{
+	background-image: url(pizza.jpg);
+	background-color: silver;
+	color : #AA0014;
+	font-size: 30px;
+
+}
+
+button {
+	background-color: rgb(120,0,120);
+	color:  rgb(0,255,0);
+	width: 150px;
+	height: 50px;
+}
+
+button.diferente{
+	background-color: rgb(200,0,0);
+    width: 150px;
+    height: 50px;
+}
+input {
+	background-color: navi;
+	color:  rgb(0,155,0);
+	width: 150px;
+	height: 50px;
+	font-size: 20px;
+	font-size: arial;
+	text-align: center;
+}
+h1 {
+
+		color: black;
+		font-size: 80px;
+	
+
+
+
+}
+ h2 {
+ 	background.color: black ;
+ 	color: white;
